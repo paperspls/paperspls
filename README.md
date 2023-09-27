@@ -5,7 +5,7 @@
 <p align="center">My passion is to create experiences using technology. <br><br> From backend development using C# to frontend development using ReactTS, I am passionate about discovering new things and overcoming challenges, and then using them to create high-quality solutions. Today, I'm a full-stack developer focused on web development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=paperspls&theme=gruvbox&mode=weekly"/>
+<img width=55% align="center"  src="https://streak-stats.demolab.com?user=paperspls&theme=gruvbox&mode=weekly"/>
 <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paperspls&theme=gruvbox&layout=compact"/>
  </div>
  
