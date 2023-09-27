@@ -2,7 +2,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://i.imgur.com/pP9WOsg.png" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">My Passion is to create great things using tech. <br><br> From backend development using C# to frontend development using ReactTS, I am <strong>passionate to discover new stuffs and overcoming challenges,</strong> and also using them to create high quality solutions. Today, I'm a <strong>full stack developer</strong> focused on web development.</p>&nbsp;
+<p align="center">My Passion is to create experiences using tech. <br><br> From backend development using C# to frontend development using ReactTS, I am <strong>passionate to discover new stuffs and overcoming challenges,</strong> and also using them to create high quality solutions. Today, I'm a <strong>full stack developer</strong> focused on web development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=paperspls&theme=gruvbox&mode=weekly" />
