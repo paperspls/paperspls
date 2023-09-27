@@ -6,7 +6,7 @@
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=paperspls&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats.vercel.app/api?username=paperspls&hide=contribs,prs" />
+<img width=40% align="center" src="https://github-readme-stats.vercel.app/api?username=paperspls&show_icons=true&theme=radical" />
  </div>
  
  &nbsp;
